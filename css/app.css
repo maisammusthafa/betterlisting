@@ -1,0 +1,150 @@
+a {
+    color: #599caa;
+}
+
+body {
+    color: #98d1ce;
+    background-color: #0a0f14;
+    font-family: 'DejaVuSansMono Nerd Font Mono', monospace;
+}
+
+pre {
+    background-color: inherit;
+    color: #195465;
+    border: 0 solid #ccc;
+    width:  650px;
+    padding:  9.5px 0 9.5px 0;
+}
+
+#footer {
+    margin-top: 20px;
+}
+
+#footer a {
+    color: #98d1ce;
+}
+
+hr {
+    margin-bottom: 0;
+    border-color: #484b5e;
+}
+
+h4 {
+    color: #98d1ce;
+    margin-top: 20px;
+}
+
+.header {
+    color: #98d1ce;
+    margin:3px 5px 6px 5px;
+}
+
+.icons {
+    margin: 3px 5px 3px 5px;
+    height: 4%;
+    width: 4%;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+#mainBox {
+    width:666px;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+#custom-search-form {
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+.form-group-sm .form-control + .form-control-feedback, .input-group-sm + .form-control-feedback, .input-sm + .form-control-feedback {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.form-group-sm .form-control {
+    height: 30px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 4px;
+}
+
+input.form-control,input.form-control:focus {
+    box-shadow: none;
+   -webkit-box-shadow: none;
+   transition: none;
+   -moz-box-shadow: none;
+   -moz-transition: none;
+   -webkit-transition: none;
+}
+
+#searchclear {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    height: 14px;
+    margin: auto;
+    font-size: 14px;
+    cursor: pointer;
+    color: #4e5165;
+}
+
+.nf {
+    margin: 3px 15px 3px 5px;
+    height: 4%;
+    width: 4%;
+}
+
+.form-control {
+    background-color: unset;
+    border-color: #4e5165;
+    color: unset;
+}
+
+h4 a {
+    color: #98d1ce;
+}
+
+.format-folder {
+    color: #98d1ce;
+}
+
+.format-archive {
+    color: #888ba5;
+}
+
+.format-code {
+    color: #26a98b;
+}
+
+.format-video, .format-audio {
+    color: #d26939;
+}
+
+.format-image {
+    color: #edb54b;
+}
+
+::placeholder {
+    color: #4e5165 !important;
+}
+
+h4 .nf {
+    margin-right: 0;
+}
+
+#footerText {
+    font-size: 13px;
+}
+
+.container {
+    margin-top: 30px;
+}
